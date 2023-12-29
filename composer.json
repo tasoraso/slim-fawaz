@@ -1,14 +1,14 @@
 {
-    "name": "hezecom/slim-starter",
+    "name": "tasoraso/slim-fawaz",
     "description": "Slim Framework 4 Starter App",
     "type": "project",
     "keywords": ["slim", "slim 4", "skeleton", "authentication","template", "orm","hezecom"],
-    "homepage": "https://github.com/hezecom/slimapp",
+    "homepage": "https://github.com/tasoraso/slim-fawaz",
     "license": "MIT",
     "authors": [
         {
-            "name": "Hezekiah Omotsuebe",
-            "email": "support@hezecom.com"
+            "name": "A Fawaz",
+            "email": "the_y2k@live.com"
         }
     ],
     "require": {
